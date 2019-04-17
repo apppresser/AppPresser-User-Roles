@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: AppPresser User Roles - Template Plugin (Random User Role)
+Plugin Name: AppPresser User Roles
 Plugin URI: https://github.com/apppresser/apppresser-user-roles
-Description: Modify this plugin to integrate user roles which will be used in an AppPresser app.
+Description: Template Plugin (Random User Role) - Modify this plugin to integrate user roles which will be used in an AppPresser app.
 Version: 1.0.0
 Author: [You]
 License: MIT
